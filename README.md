@@ -1,4 +1,4 @@
-# Streaming_With_Kafka_AWS_Snowpipe
+# Streaming With Kafka, AWS & Snowpipe/Snowflake
 
 I recently published a course on LinkedIn Learning - "Building Streaming Data Pipelines with AWS and Snowflake".
 
